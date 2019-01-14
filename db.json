@@ -1,0 +1,67 @@
+{
+  "user1": [
+    {
+      "contentType": "application/vnd.userApplicationSettings+json",
+      "schema": "1.0.0",
+      "$type": "QualiaUserApplicationSettings",
+      "activeProgramInstanceId": null,
+      "defaultMeasurementSystem": 3,
+      "lastViewedInformationScreenContentId": null,
+      "lastViewedInformationScreenVersion": 0,
+      "preferredUICulture": "nl-NL",
+      "id": "vnd.userApplicationSettings_fe2500ae-5a64-4b80-8c48-f09124d11511_qualia.mobile",
+      "userId": "fe2500ae-5a64-4b80-8c48-f09124d11511",
+      "applicationId": "qualia.mobile",
+      "additionalProperties": {
+        "age": "24",
+        "defaultCountryCode": "US",
+        "defaultAddressId": "13618261-ee43-45d8-a59f-d2aa554024db",
+        "fatSecretAuthSecret": "4ebdf764742e49b58fc2b23e5e34d364",
+        "fatSecretAuthToken": "c2ca2cc6d0cd4a5283758d90538c444f",
+        "feeling": "Sick",
+        "gender": "Male",
+        "lastUpdatedOn": "636621966945639250",
+        "programId": "19214bff-3cee-4597-9c62-f132c87a7649",
+        "startTime": "07:00:00",
+        "isFibitSelected": "No",
+        "pushOptIn_CorporateCommunications": "True"
+      },
+      "_rid": "GMIiAPVGzgA9AwAAAAAAAA==",
+      "_self": "dbs/GMIiAA==/colls/GMIiAPVGzgA=/docs/GMIiAPVGzgA9AwAAAAAAAA==/",
+      "_etag": "\"5500779d-0000-0000-0000-5afe10d60000\"",
+      "_attachments": "attachments/",
+      "_ts": 1526599894
+    }
+  ],
+  "user2": [
+    {
+      "contentType": "application/vnd.userApplicationSettings+json",
+      "schema": "1.0.0",
+      "$type": "QualiaUserApplicationSettings",
+      "activeProgramInstanceId": "7baa5a9f-356d-4527-a3dc-227c0a55c395",
+      "defaultMeasurementSystem": 1,
+      "lastViewedInformationScreenContentId": null,
+      "lastViewedInformationScreenVersion": 0,
+      "id": "vnd.userApplicationSettings_309f2206-effe-41ae-a50e-e321bac41500_qualia.mobile",
+      "userId": "309f2206-effe-41ae-a50e-e321bac41500",
+      "applicationId": "qualia.mobile",
+      "additionalProperties": {
+        "age": "Not Specified",
+        "defaultCountryCode": "GB",
+        "defaultAddressId": "9ba0fee1-8da4-4ffa-b054-e8f18ab0fb52",
+        "fatSecretAuthSecret": "f3d08652a5f44bff8aa48ac4f3ba7420",
+        "fatSecretAuthToken": "23419dfe0f9c472795624e3c0e6e403e",
+        "gender": "Not Specified",
+        "lastUpdatedOn": "636525052188984850",
+        "programId": "fcaba1a7-7024-4bef-886d-155180165cda",
+        "isFibitSelected": null,
+        "pushOptIn_CorporateCommunications": "True"
+      },
+      "_rid": "GMIiAPVGzgCnAwAAAAAAAA==",
+      "_self": "dbs/GMIiAA==/colls/GMIiAPVGzgA=/docs/GMIiAPVGzgCnAwAAAAAAAA==/",
+      "_etag": "\"3400ece2-0000-0000-0000-5a6a2f830000\"",
+      "_attachments": "attachments/",
+      "_ts": 1516908419
+    }
+  ]
+}
